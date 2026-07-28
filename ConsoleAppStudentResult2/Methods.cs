@@ -12,9 +12,7 @@ namespace ConsoleAppStudentResult2
         public static void AddStudent()
         {
             try
-            {
-
-
+            { 
                 Student student = new Student();
                 Console.Clear();
 
