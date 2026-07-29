@@ -250,6 +250,7 @@ namespace ConsoleAppStudentResult2
             double avg = student.Average;
             Console.Clear();
 
+
             if (avg >= 80)
             {
                 student.LetterGrade = "A+";
